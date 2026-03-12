@@ -52,3 +52,15 @@ This project acts as a practical exercise reflecting a realistic business use ca
 *   `dataset/`: Contains the raw CSV data used for the analysis.
 *   `dashboard/`: Contains the Tableau packaged workbook (`.twb` / `.twbx`) and the dashboard screenshot.
 *   `README.md`: This documentation.
+
+### 🌳 Repository Structure
+
+```text
+📦 coffee-shop-tableau-dashboard
+┣ 📂 dashboard
+┃ ┣ 📜 Tableau Week 1 Workbook.twb
+┃ ┗ 📜 tableau week1 image.png
+┣ 📂 dataset
+┃ ┗ 📜 coffee_shop_sales.xlsx - Transactions.csv
+┗ 📜 README.md
+```
